@@ -1,1 +1,1 @@
-# Weather-Forcasting-Apllication.
+Weather conditions play a pivotal role in influencing energy consumption patterns. Accurate forecasting of both weather conditions and energy usage is crucial for optimizing energy management and resource allocation. This study explores the application of machine learning techniques to simultaneously predict weather variables and energy consumption, aiming to enhance forecasting accuracy and promote sustainable energy practices.
